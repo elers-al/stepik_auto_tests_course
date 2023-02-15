@@ -1,2 +1,2 @@
-# stepik_auto_tests_course
-Домашние задания к курсу на Stepik
+# stepik-homework
+Это репозиторий для хранения домашних заданий к курсу по автоматизации тестирования на Stepik https://stepik.org/course/575
